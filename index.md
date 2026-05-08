@@ -1,7 +1,7 @@
 # Carter Smith
 ### Computational Linguist & Data Scientist
 
-📍 Dallas-Fort Worth, TX (US) &nbsp;|&nbsp; 📧 [cjackson692@gmail.com](mailto:cjackson692@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/carter-smith-5b4887231)
+Dallas-Fort Worth, TX (US) &nbsp;|&nbsp; [cjackson692@gmail.com](mailto:cjackson692@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/carter-smith-5b4887231)
 
 ---
 
@@ -9,7 +9,7 @@ Computational Linguist & Data Scientist with four years in paid academic roles a
 
 ---
 
-## 💼 Employment History
+## Employment History
 
 ### Forensic Linguistics Consultant — *Freelance*
 **Mar 2026 – Present**
@@ -55,11 +55,11 @@ Computational Linguist & Data Scientist with four years in paid academic roles a
 - Trained new employees in library processes
 - Tracked patron interaction data using SQL database
 - Received and ingested new library materials
-- 🏆 Received Student Employee Award
+- Received Student Employee Award
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Master of Science in Computational Linguistics
 **University of North Texas, Denton, TX** — *May 2026*
@@ -81,13 +81,13 @@ GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors T
 
 ---
 
-## 🔬 Personal Projects
+## Personal Projects
 
 ### Neural Part-of-Speech Analysis of Historical Germanic
 - Conducted a study testing a Bi-LSTM neural network architecture for automatic POS annotation on five historical Germanic languages (Old Saxon, Old English, Old High German, Old Icelandic, and Gothic) to establish the effectiveness of this methodology
 - *In review for publication*
 - Accepted for presentation at 3 international conferences
-- 🏆 Honors Thesis Award
+- Honors Thesis Award
 
 ### Comparing Constructed and Natural Languages using Information Theory
 - Worked on the comparison of natural and constructed languages through information-theoretic metrics
@@ -96,7 +96,7 @@ GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors T
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 `Python` `PyTorch` `R` `SQL` `Pandas` `Excel` `Tableau` `LaTeX` `Markdown` `Regex`
 `Statistical Modelling` `Bayesian Statistics` `Machine Learning` `Deep Learning` `Neural Networks`
@@ -104,7 +104,7 @@ GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors T
 
 ---
 
-## 🌐 Languages
+## Languages
 
 | Language | Proficiency |
 |---|---|
@@ -119,16 +119,11 @@ GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors T
 
 ---
 
-## 🎯 Other Interests
+## Other Interests
 
 Language Evolution · Constructed Languages · Crossword Puzzles · Hiking · Poetry · Improvisational Storytelling
 
 ---
 
-## 📋 References
-
-**Frederik Hartmann** — University of North Texas
-[Frederik.Hartmann@unt.edu](mailto:Frederik.Hartmann@unt.edu) | (940) 565-4552
-
-**Katie Crowder** — University of North Texas
-[Sarah.Crowder@unt.edu](mailto:Sarah.Crowder@unt.edu) | (940) 231-4438
+## References
+Please Ask Me Directly via email!
