@@ -1,7 +1,7 @@
 # Carter Smith
 ### Computational Linguist & Data Scientist
 
-📍 Dallas-Fort Worth, TX (US) &nbsp;|&nbsp; 📧 [cjackson692@gmail.com](mailto:cjackson692@gmail.com) &nbsp;|&nbsp; 📞 (361) 443-9184 &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/carter-smith-5b4887231)
+📍 Dallas-Fort Worth, TX (US) &nbsp;|&nbsp; 📧 [cjackson692@gmail.com](mailto:cjackson692@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/carter-smith-5b4887231)
 
 ---
 
