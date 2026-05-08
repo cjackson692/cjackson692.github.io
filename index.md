@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # Carter Smith
 ### Computational Linguist & Data Scientist
 
