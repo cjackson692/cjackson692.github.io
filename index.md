@@ -9,7 +9,7 @@ description: Computational Linguist & Quantitative Researcher
 
 # Carter Smith
 
-### Computational Linguist & Data Scientist
+### Computational Linguist & Quantitative Researcher
 
 | Dallas–Fort Worth, TX (US) | <cjackson692@gmail.com> | [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231) |
 
