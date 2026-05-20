@@ -24,7 +24,7 @@ Assisted Dr. Cukor-Avila in instructing undergraduate students in a basic survey
 
 ## Language of Now
 
-**Teaching Assistant — University of North Texas, Department of Linguistics** **Aug 2025 – Dec 2025, Jan 2026 - May 2026** Instructor: Dr. Nicholas Lester, Professor Katie Crwdero
+**Teaching Assistant — University of North Texas, Department of Linguistics** **Aug 2025 – Dec 2025, Jan 2026 - May 2026** Instructor: Dr. Nicholas Lester, Professor Katie Crowder
 
 Assisted over two semesters in the instruction of university core curriculum, focused on engaging students with analysis of language in a modern context. Led coursework, assisted and evaluated students in project-based learning.
 
