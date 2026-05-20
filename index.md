@@ -9,9 +9,9 @@ description: Computational Linguist & Quantitative Researcher
 
 Dallas–Fort Worth, TX (US) · [cjackson692@gmail.com](mailto:cjackson692@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231)
 
-Hi, I am a Computational Linguist & Quantitative researcher with four years in paid academic roles applying probabilistic modeling, ML, and neural methods to language-change research and coding-focused LLM fine-tuning. I am currently eeking positions in NLP and quantitative research applying statistical modeling, machine learning, and AI to better understand our world.
+Hi, I am a Computational Linguist & Quantitative researcher with four years in paid academic roles applying probabilistic modeling, ML, and neural methods to language-change research and coding-focused LLM fine-tuning. I am currently seeking positions in NLP and quantitative research applying statistical modeling, machine learning, and AI to better understand our world.
 
-One paper currently in review (*neural network error analysis in Early Germanic*); three accepted international conference presentations (GLAC 2024, GLAC 2025, Protolang 9).
+One paper currently in review (*Neural network error analysis in Early Germanic*); three accepted international conference presentations (GLAC 2024, GLAC 2025, Protolang 9).
 
 ---
 
@@ -33,7 +33,7 @@ Concentration: Computational Linguistics
 ## Employment History
 
 #### Graduate Research Assistant
-*University of North Texas, EVoAI Lab (Department of Linguistics), Denton, TX* - Aug 2023 - Present
+*University of North Texas, EVoAI Lab (Department of Linguistics), Denton, TX* - June 2023 - Present
 
 - Contribute to the NSF-funded *NeuraRec* project (PI: Dr. Frederik Hartmann), developing novel neural-network frameworks for the reconstruction of historical language data
 - Implement models using Hierarchical Bayesian Inference, Machine Learning, Natural Language Processing, Deep Learning, and other computational methods
@@ -48,7 +48,7 @@ Concentration: Computational Linguistics
 - Compiled formal reporting on modern detection algorithms
 - Conducted comparative analysis of content and error patterns across multiple written language samples
 
-#### Coder / AI Trainer
+#### AI Trainer - Coding, STEM, ML
 *DataAnnotation Tech, Denton, TX* - June 2025 - Present
 
 - Contributed to fine-tuning multiple LLMs on coding and STEM topics, producing measurable improvements in response accuracy
