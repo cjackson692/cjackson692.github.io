@@ -13,7 +13,6 @@ description: Computational Linguist & Quantitative Researcher
 ### Computational Linguist & Data Scientist
 
 | Dallas–Fort Worth, TX (US) | <cjackson692@gmail.com> | [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231) |
-| -------------------------- | ----------------------- | -------------------------------------------------------------- |
 
 ---
 
