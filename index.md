@@ -23,6 +23,8 @@ One paper currently in review (*neural network error analysis in Early Germanic*
 
 ## Education
 
+---
+
 ### Master of Science in Computational Linguistics
 
 **University of North Texas, Denton, TX** — *May 2026* GPA: 4.0
@@ -37,7 +39,7 @@ One paper currently in review (*neural network error analysis in Early Germanic*
 
 ### Bachelor of Arts in Linguistics
 
-*Concentration: Computational Linguistics* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors Thesis | D
+*Concentration: Computational Linguistics* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors Thesis | Distinguished Honors Award
 
 ---
 
