@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Carter Smith
-description: Computational Linguist & Data Scientist
+description: Computational Linguist & Quantitative Researcher
 ---
 
 [Home](./) · [Research & Projects](./research) · [Teaching](./teaching) · [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231) · [EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html)
@@ -17,9 +17,9 @@ description: Computational Linguist & Data Scientist
 
 ---
 
-Computational Linguist & Data Scientist with four years in paid academic roles applying probabilistic modeling, ML, and neural methods to language-change research and coding-focused LLM fine-tuning. Practices cutting-edge techniques to extract knowledge from data and establish reproducible analysis workflows. Seeks a position applying AI/ML and data mining skills to real-world problems to improve outcomes and efficiency.
+Computational Linguist & Quantitative researcher with four years in paid academic roles applying probabilistic modeling, ML, and neural methods to language-change research and coding-focused LLM fine-tuning. Seeking positions in NLP and Quantitative research applying statistical modeling, machine learning, and AI to better understand our world.
 
-One paper currently in review (*neural network error analysis in Early Germanic*); three accepted international conference presentations under "Carter Smith" (GLAC 2024, GLAC 2025, Protolang 9).
+One paper currently in review (*neural network error analysis in Early Germanic*); three accepted international conference presentations (GLAC 2024, GLAC 2025, Protolang 9).
 
 ---
 
@@ -29,20 +29,17 @@ One paper currently in review (*neural network error analysis in Early Germanic*
 
 **University of North Texas, Denton, TX** — *May 2026* GPA: 4.0
 
-- Robert B. Toulouse Graduate Scholarship (Fall 2025 & Spring 2026)
-- Graduate research assistant, [UNT EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html) — NSF NeuraRec project
-
 ---
 
 ### Bachelor of Science in Information Science
 
-*Concentration: Human Language Technology* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Summa Cum Laude | Degree Rank: 1 of 3,904
+*Concentration: Human Language Technology* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Summa Cum Laude | 
 
 ---
 
 ### Bachelor of Arts in Linguistics
 
-*Concentration: Computational Linguistics* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors Thesis | Degree Rank: 1 of 3,904
+*Concentration: Computational Linguistics* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors Thesis | D
 
 ---
 
@@ -55,10 +52,7 @@ One paper currently in review (*neural network error analysis in Early Germanic*
 - Contribute to the NSF-funded *NeuraRec* project (PI: Dr. Frederik Hartmann), developing novel neural-network frameworks for the reconstruction of historical language data
 - Implement models using Hierarchical Bayesian Inference, Machine Learning, Natural Language Processing, Deep Learning, and other computational methods
 - Conduct data processing and computational modeling for studies of diachronic semantic change, language evolution, and geographical-phonological complexity
-- Build reproducible Python and R pipelines for parsed historical corpora across five low-resource Germanic languages
-- Work results have produced one paper currently in review and three accepted international conference presentations
-
-See [Research & Projects](./research) for full project enumeration.
+- Build computational models for rigorous research workflows using Python and R
 
 ---
 
@@ -75,7 +69,7 @@ See [Research & Projects](./research) for full project enumeration.
 
 ### Coder / AI Trainer — *DataAnnotation Tech, Denton, TX*
 
-**May 2025 – Present**
+**June 2025 – Present**
 
 - Contributed to fine-tuning multiple LLMs on coding and STEM topics, producing measurable improvements in response accuracy
 - Created and maintained Python codebases to support AI training workflows, improving training pipeline reliability
@@ -88,6 +82,7 @@ See [Research & Projects](./research) for full project enumeration.
 **Aug 2023 – May 2026**
 
 - Assisted in instructing students on basic and advanced linguistic modeling techniques in NLP across multiple courses
+- Assisted in instructing general linguistics classes in pop linguistics and sociolinguistics to undergraduate students
 - Provided in- and out-of-classroom instruction on Bayesian probabilistic models, agent-based models, inferential modeling techniques, and machine-learning techniques including Neural Networks
 - Managed assignments and provided assessments of student work for undergraduate through PhD audiences
 
@@ -145,11 +140,8 @@ See [Research & Projects](./research) for full project descriptions and supporti
 | English         | Native      |
 | Mandarin        | Novice      |
 | Spanish         | Novice      |
-| Old Saxon       | Reading     |
-| Old English     | Reading     |
-| Old Icelandic   | Reading     |
-| Old High German | Reading     |
-| Gothic          | Reading     |
+
+I have also worked on research projects featuring Old Norse, Old English, Gothic, Old Icelandic, Old High German, Roviana, Burushaski, Icelandic, and Mandarin
 
 ---
 
@@ -169,7 +161,6 @@ See [Research & Projects](./research) for full project descriptions and supporti
 
 ## Organization Memberships
 
-- Society for Germanic Linguistics
 - Student Linguistic Association of North Texas
 - University of North Texas Honors College (Aug 2021 – May 2025)
 
@@ -183,4 +174,4 @@ Language Evolution · Constructed Languages · Crossword Puzzles · Hiking · Po
 
 ## References
 
-Please ask me directly via email!
+Please ask me directly via email, and I would be happy to provide references!
