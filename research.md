@@ -2,9 +2,6 @@
 layout: default
 title: Research & Projects — Carter Smith
 description: Research projects, publications, and coursework
----
-
-[Home](./) · [Research & Projects](./research) · [Teaching](./teaching) · [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231) · [EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html)
 
 ---
 
