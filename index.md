@@ -21,11 +21,11 @@ One paper currently in review (*Neural network error analysis in Early Germanic*
 *University of North Texas, Denton, TX* - May 2026 · GPA 4.0
 
 #### Bachelor of Science in Information Science
-*University of North Texas, Denton, TX* - Aug 2021 - May 2025 · GPA 4.0 · Summa Cum Laude  
+*University of North Texas, Denton, TX* - Aug 2021 - May 2025 · GPA 4.0 · Summa Cum Laude · President's List 
 Concentration: Human Language Technology
 
 #### Bachelor of Arts in Linguistics
-*University of North Texas, Denton, TX* - Aug 2021 - May 2025 · GPA 4.0 · Summa Cum Laude · Dean's List · Distinguished Honors Award · Honors Thesis  
+*University of North Texas, Denton, TX* - Aug 2021 - May 2025 · GPA 4.0 · Summa Cum Laude · President's List · Distinguished Honors Award · Honors Thesis  
 Concentration: Computational Linguistics
 
 ---
