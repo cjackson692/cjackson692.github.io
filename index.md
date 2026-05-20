@@ -33,13 +33,13 @@ One paper currently in review (*neural network error analysis in Early Germanic*
 
 ### Bachelor of Science in Information Science
 
-*Concentration: Human Language Technology* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Summa Cum Laude | 
+*Concentration: Human Language Technology* | **University of North Texas, Denton, TX** | *Aug 2021 – May 2025* | GPA: 4.0 | Summa Cum Laude | 
 
 ---
 
 ### Bachelor of Arts in Linguistics
 
-*Concentration: Computational Linguistics* **University of North Texas, Denton, TX** — *Aug 2021 – May 2025* GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors Thesis | Distinguished Honors Award
+*Concentration: Computational Linguistics* | **University of North Texas, Denton, TX** | *Aug 2021 – May 2025* | GPA: 4.0 | Dean's List | Summa Cum Laude | Distinguished Honors Award | Honors Thesis | Distinguished Honors Award
 
 ---
 
@@ -125,11 +125,11 @@ See [Research & Projects](./research) for full project descriptions and supporti
 
 ## Skills
 
-`Python` `PyTorch` `R` `SQL` `Pandas` `NumPy` `scikit-learn` `NLTK` `Excel` `Tableau` `LaTeX` `Markdown` `Regex` `Git`
+`Python`, `PyTorch`, `R`, `SQL`, `Pandas`, `NumPy`, `scikit-learn`, `NLTK`, `Excel`, `Tableau`, `LaTeX`, `Markdown`, `Regex`, `Git`
 
-`Statistical Modelling` `Bayesian Statistics` `Machine Learning` `Deep Learning` `Neural Networks` `Bi-LSTM` `Transformers` `Data Mining` `Data Visualization` `Feature Engineering` `Data Management` `Time-Series Analysis` `Clustering` `Classification` `Association-Rule Mining`
+`Statistical Modelling`, `Bayesian Statistics`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Bi-LSTM`, `Transformers`, `Data Mining`, `Data Visualization`, `Feature Engineering`, `Data Management`, `Time-Series Analysis`, `Clustering`, `Classification`, `Association-Rule Mining`
 
-`NLP` `POS Tagging` `Sequence Modeling` `Information-Theoretic Analysis` `Corpus Construction` `Syntactic Annotation` `IPA` `Syntax`
+`NLP`, `POS Tagging`, `Sequence Modeling`, `Information-Theoretic Analysis`, `Corpus Construction`, `Syntactic Annotation`, `IPA`, `Syntax`
 
 ---
 
