@@ -2,9 +2,6 @@
 layout: default
 title: Teaching — Carter Smith
 description: Teaching experience and supported courses
----
-
-[Home](./) · [Research & Projects](./research) · [Teaching](./teaching) · [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231) · [EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html)
 
 ---
 
