@@ -9,7 +9,7 @@ description: Research projects, publications, and coursework
 
 If you have any questions or would like to read any of my work on these projects, please reach out!
 
-**Highlights** — one paper currently in review (*Germanic POS / error analysis*); three accepted international conference presentations under the name *Carter Smith* — GLAC 30 (2024), GLAC 31 (2025), and Protolang 9 (2025).
+**Highlights** - one paper currently in review (*Germanic POS / error analysis*); three accepted international conference presentations under the name *Carter Smith* - GLAC 30 (2024), GLAC 31 (2025), and Protolang 9 (2025).
 
 ---
 
@@ -20,42 +20,40 @@ If you have any questions or would like to read any of my work on these projects
 
 This study tests the efficacy of neural-network error analysis as a method for investigating syntactic change. A context-sensitive Bi-LSTM is trained to label syntactic categories of words in five historical Germanic languages (Old English, Old Saxon, Old High German, Old Icelandic, Gothic). Per-category accuracies are systematically examined to identify unusual error patterns both language-internally and cross-linguistically, which are then used to generate hypotheses about ongoing syntactic changes. Hypotheses are compared with the existing literature on Germanic syntactic change to validate the approach. The networks achieve high overall accuracy, and the error analysis surfaces several patterns of change previously noted using other methods. The study argues for the value of error-centric neural analysis as a tool in historical linguistics.
 
-- **Repository** — [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
-- **Status** — In review for publication
-- **Keywords** — Syntactic Change · Neural Networks · Error Analysis · Part-of-Speech Tagging · Historical Germanic
+- **Repository** - [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
+- **Status** - In review for publication
+- **Keywords** - Syntactic Change · Neural Networks · Error Analysis · Part-of-Speech Tagging · Historical Germanic
 
 ---
 
 ## Conference Presentations
-
-All presentations below are listed under the author name **Carter Smith**.
 
 #### Using Neural Networks for Part-of-Speech Analysis to Investigate Syntactic Evolution and Change
 **Smith, C.** & Hartmann, F. (September 2025). **Protolang 9**, Vienna, Austria.
 
 Investigated using Bi-directional Long-Short Term Memory (Bi-LSTM) models to tag POS across five historical Germanic languages. Reported mono-language tagging accuracies (overall 80–91% range across OE, OS, OHG, OI, GO) and used ablation analysis to identify class-wise predictability patterns associated with observed syntactic differences. Skip-gram models on syntactic categories were used to compare cross-linguistic patterning of POS, then multilingual models were tested for cross-linguistic generalization. Findings include that lower predictive accuracy of ADJ in Old English (vs. OHG/OI/OS) tracks the more restricted attested adjective–noun ordering in OE, and that the OHG determiner shows a content-word-like learnability curve distinct from the function-word pattern observed in other languages.
 
-- **Status** — Accepted; presented September 2025
-- **Repository** — [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
+- **Status** - Accepted; presented September 2025
+- **Repository** - [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
 
 #### Expanding Neural Part-of-Speech Analysis of Historical Germanic Languages
 **Smith, C.** (May 2025). **Germanic Linguistics Annual Conference 31 (GLAC 31)**, Denton, TX.
 
 Sole-authored expansion of the earlier GLAC 30 study, broadening the dataset from a smaller Germanic subset to Old Saxon, Old English, Old High German, Old Icelandic, and Gothic. Reported accuracies in the 87–90% range for OS / OE / OI / GO, and ~80% for OHG. Secondary ablation analyses revealed predictability trends across Determiners, Adjectives, Adverbs, Conjunctions, and Complementizers, and motivated the broader error-analysis framework subsequently developed in the *in-review* manuscript.
 
-- **Status** — Accepted; presented May 2025
+- **Status** - Accepted; presented May 2025
 
 #### Neural Part-of-Speech Analysis in Historical Germanic
 **Smith, C.** & Hartmann, F. (April 2024). **Germanic Linguistics Annual Conference 30 (GLAC 30)**, Bloomington, IN.
 
 Initial study testing Bi-LSTM neural network architectures for automatic POS annotation on a smaller Germanic subset, establishing baseline feasibility of context-sensitive neural POS tagging for low-resource historical languages and motivating subsequent multi-language and ablation work.
 
-- **Status** — Accepted; presented April 2024
+- **Status** - Accepted; presented April 2024
 
 #### Using Information-Theoretic Metrics to Compare Natural and Constructed Language
 **Smith, C.** & Beeler, A. (November 2023). **DFW Metroplex Linguistic Conference**, Dallas, TX.
 
-Co-authored talk comparing natural and constructed languages through information-theoretic metrics. Built computational language models and conducted lexicon-level analysis to operationalize cross-system comparison.
+Co-authored talk comparing natural and constructed languages through information-theoretic metrics. Built computational language models and conducted lexicon-level analysis to for comparison.
 
 #### Computational Information Theory Applied to Constructed Languages
 Beeler, A. & **Smith, C.** (November 2023). Poster, **UNT College of Information 15th Anniversary Celebration**, Denton, TX.
@@ -71,30 +69,30 @@ Reported on the digitization of Roviana language data into a machine-readable fo
 
 ## Research Positions
 
-#### Graduate Research Assistant — NSF *NeuraRec* Project
-*University of North Texas, Department of Linguistics — EVoAI Lab* — Sept 2025 – Present · PI: Dr. Frederik Hartmann
+#### Graduate Research Assistant - NSF *NeuraRec* Project
+*University of North Texas, Department of Linguistics - EVoAI Lab* - Sept 2025 - Present · PI: Dr. Frederik Hartmann
 
 Working as part of the [UNT EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html) on an NSF-funded project focused on developing neural models for proto-language reconstruction.
 
-#### Research Team Member — UNT Computational Linguistics Lab
-*University of North Texas, Department of Linguistics* — Sept 2023 – Present · Supervisor: Dr. Frederik Hartmann
+#### Research Team Member - UNT Computational Linguistics Lab
+*University of North Texas, Department of Linguistics* - Sept 2023 - Present · Supervisor: Dr. Frederik Hartmann
 
 Working on the comparison of natural and constructed languages through information-theoretic metrics. Created computational language models and conducted in-depth lexicon analysis. Collaborated with a research team across multiple levels of academia and with outside experts.
 
-#### Research Assistant — Department of Linguistics
-*University of North Texas* — May 2023 – July 2025 · Supervisor: Dr. Frederik Hartmann
+#### Research Assistant - Department of Linguistics
+*University of North Texas* - May 2023 - July 2025 · Supervisor: Dr. Frederik Hartmann
 
 Assisted with data processing and computational modeling for studies of diachronic semantic change, language evolution, and geographical–phonological complexity.
 
-#### Honors Undergraduate Thesis — *Neural Part-of-Speech Analysis of Historical Germanic Languages*
-*UNT Honors College / Department of Linguistics* — Jan 2025 – May 2025 · Faculty Advisor: Dr. Frederik Hartmann
+#### Honors Undergraduate Thesis - *Neural Part-of-Speech Analysis of Historical Germanic Languages*
+*UNT Honors College / Department of Linguistics* - Jan 2025 - May 2025 · Faculty Advisor: Dr. Frederik Hartmann
 
 Completed and defended an honors thesis project entitled *Neural Part-of-Speech Analysis of Historical Germanic Languages*. Received highest marks and earned the Distinguished Honors Award. This thesis directly seeded the in-review manuscript and the Protolang 9 presentation.
 
 - **Repository** — [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
 
-#### Honors Independent Study — Roviana Language Digitization
-*UNT Honors College* — Jan 2023 – May 2023 · Supervisor: Dr. Peter Schuelke
+#### Honors Independent Study - Roviana Language Digitization
+*UNT Honors College* - Jan 2023 - May 2023 · Supervisor: Dr. Peter Schuelke
 
 Worked under the supervision of Dr. Peter Schuelke and the advisement of the UNT Honors College on a project centered on the digitization of Roviana language data into machine-readable format, and the development of a decision-tree tool for identifying particular grammatical forms within Roviana. Earned course credit through research.
 
@@ -102,10 +100,10 @@ Worked under the supervision of Dr. Peter Schuelke and the advisement of the UNT
 
 ## Code Repositories
 
-- **[GermanicPOS](https://github.com/cjackson692/GermanicPOS)** — Bi-LSTM POS-tagging models, ablation studies, skip-gram POS-embedding analysis, and multilingual experiments across five historical Germanic languages. Supports the in-review manuscript and the GLAC 30 / GLAC 31 / Protolang 9 presentations.
-- **[Group1_NanoGPT](https://github.com/cjackson692/Group1_NanoGPT)** — Group project building on the NanoGPT framework; experimentation with small-scale transformer language modeling.
-- **[CSCE_5218_Group1_Project](https://github.com/cjackson692/CSCE_5218_Group1_Project)** — Graduate Deep Learning (CSCE 5218) group project; deep-learning system implementation and evaluation.
-- **[cjackson692.github.io](https://github.com/cjackson692/cjackson692.github.io)** — Source for this site.
+- **[GermanicPOS](https://github.com/cjackson692/GermanicPOS)** - Bi-LSTM POS-tagging models, ablation studies, skip-gram POS-embedding analysis, and multilingual experiments across five historical Germanic languages. Supports the in-review manuscript and the GLAC 30 / GLAC 31 / Protolang 9 presentations.
+- **[Group1_NanoGPT](https://github.com/cjackson692/Group1_NanoGPT)** - Group project building on the NanoGPT framework; experimentation with small-scale transformer language modeling.
+- **[CSCE_5218_Group1_Project](https://github.com/cjackson692/CSCE_5218_Group1_Project)** - Graduate Deep Learning (CSCE 5218) group project; deep-learning system implementation and evaluation.
+- **[cjackson692.github.io](https://github.com/cjackson692/cjackson692.github.io)** - Source for this site.
 
 ---
 
