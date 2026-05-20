@@ -87,8 +87,6 @@ See [Teaching](./teaching) for a full course breakdown.
 
 ## Conference Presentations
 
-All presentations are listed under the author name "Carter Smith."
-
 - **Smith, C.** & Hartmann, F. (September 2025). *Using Neural Networks for part-of-speech analysis to investigate syntactic evolution and change.* **Protolang 9**, Vienna, Austria.
 - **Smith, C.** (May 2025). *Expanding Neural Part-of-Speech Analysis in Historical Germanic.* **Germanic Linguistics Annual Conference 31 (GLAC 31)**, Denton, TX.
 - **Smith, C.** & Hartmann, F. (April 2024). *Neural Part-of-Speech Analysis in Historical Germanic.* **Germanic Linguistics Annual Conference 30 (GLAC 30)**, Bloomington, IN.
