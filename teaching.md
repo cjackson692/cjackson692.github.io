@@ -14,19 +14,27 @@ Six semesters of teaching support at the University of North Texas across lingui
 
 ---
 
-## Python Programming for Text
+## Language and Society
 
-**Teaching Assistant — University of North Texas, Department of Linguistics** **Aug 2025 – Dec 2025** Instructor: Dr. Frederik Hartmann
+**Teaching Assistant — University of North Texas, Department of Linguistics** **Jan 2026 - May 2026** Instructor: Dr. Patricia Cukor-Avila
 
-Assisted Dr. Hartmann in instructing students in the basics of Python programming, centered on its applications for text processing and language modeling. Provided in-classroom instruction. Administered and evaluated examinations.
+Assisted Dr. Cukor-Avila in instructing undergraduate students in a basic survey of sociolinguistic theory and research. Provided instruction and assessment, and oversaw an Honor's research project analyzing negation in the Corpus of Regional African American Language (CORAAL)
 
 ---
 
 ## Language of Now
 
-**Teaching Assistant — University of North Texas, Department of Linguistics** **Aug 2025 – Dec 2025** Instructor: Dr. Nicholas Lester
+**Teaching Assistant — University of North Texas, Department of Linguistics** **Aug 2025 – Dec 2025, Jan 2026 - May 2026** Instructor: Dr. Nicholas Lester, Professor Katie Crwdero
 
-Assisted Dr. Lester in the instruction of university core curriculum, focused on engaging students with analysis of language in a modern context. Led coursework, assisted and evaluated students in project-based learning.
+Assisted over two semesters in the instruction of university core curriculum, focused on engaging students with analysis of language in a modern context. Led coursework, assisted and evaluated students in project-based learning.
+
+---
+
+## Python Programming for Text
+
+**Teaching Assistant — University of North Texas, Department of Linguistics** **Aug 2025 – Dec 2025** Instructor: Dr. Frederik Hartmann
+
+Assisted Dr. Hartmann in instructing students in the basics of Python programming, centered on its applications for text processing and language modeling. Provided in-classroom instruction. Administered and evaluated examinations.
 
 ---
 
@@ -64,4 +72,4 @@ Across these courses I have provided instruction and assessment on:
 - **Language instruction** — guided practice and assessment for elementary L2 Mandarin learners
 - **Project-based learning** — supporting student-led analysis projects in modern-language coursework
 
-I have provided in-classroom instruction, administered and graded examinations, designed and evaluated rubrics, and worked one-on-one with students from introductory undergraduate through advanced PhD levels.
+
