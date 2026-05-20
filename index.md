@@ -18,14 +18,14 @@ One paper currently in review (*neural network error analysis in Early Germanic*
 ## Education
 
 #### Master of Science in Computational Linguistics
-*University of North Texas, Denton, TX* — May 2026 · GPA 4.0
+*University of North Texas, Denton, TX* - May 2026 · GPA 4.0
 
 #### Bachelor of Science in Information Science
-*University of North Texas, Denton, TX* — Aug 2021 – May 2025 · GPA 4.0 · Summa Cum Laude  
+*University of North Texas, Denton, TX* - Aug 2021 - May 2025 · GPA 4.0 · Summa Cum Laude  
 Concentration: Human Language Technology
 
 #### Bachelor of Arts in Linguistics
-*University of North Texas, Denton, TX* — Aug 2021 – May 2025 · GPA 4.0 · Summa Cum Laude · Dean's List · Distinguished Honors Award · Honors Thesis  
+*University of North Texas, Denton, TX* - Aug 2021 - May 2025 · GPA 4.0 · Summa Cum Laude · Dean's List · Distinguished Honors Award · Honors Thesis  
 Concentration: Computational Linguistics
 
 ---
@@ -33,7 +33,7 @@ Concentration: Computational Linguistics
 ## Employment History
 
 #### Graduate Research Assistant
-*University of North Texas, EVoAI Lab (Department of Linguistics), Denton, TX* — Aug 2023 – Present
+*University of North Texas, EVoAI Lab (Department of Linguistics), Denton, TX* - Aug 2023 - Present
 
 - Contribute to the NSF-funded *NeuraRec* project (PI: Dr. Frederik Hartmann), developing novel neural-network frameworks for the reconstruction of historical language data
 - Implement models using Hierarchical Bayesian Inference, Machine Learning, Natural Language Processing, Deep Learning, and other computational methods
@@ -41,7 +41,7 @@ Concentration: Computational Linguistics
 - Build computational models for rigorous research workflows using Python and R
 
 #### Forensic Linguistics Consultant
-*Freelance* — Mar 2026 – Present
+*Freelance* - Mar 2026 - Present
 
 - Conducted review of written materials in an AI-attribution academic-integrity case
 - Extracted and analyzed document metadata
@@ -49,14 +49,14 @@ Concentration: Computational Linguistics
 - Conducted comparative analysis of content and error patterns across multiple written language samples
 
 #### Coder / AI Trainer
-*DataAnnotation Tech, Denton, TX* — June 2025 – Present
+*DataAnnotation Tech, Denton, TX* - June 2025 - Present
 
 - Contributed to fine-tuning multiple LLMs on coding and STEM topics, producing measurable improvements in response accuracy
 - Created and maintained Python codebases to support AI training workflows, improving training pipeline reliability
 - Evaluated model outputs using fine-grained rubrics and provided targeted corrections that increased model alignment and quality
 
 #### Teaching Assistant
-*University of North Texas, Department of Linguistics, Denton, TX* — Aug 2023 – May 2026
+*University of North Texas, Department of Linguistics, Denton, TX* - Aug 2023 - May 2026
 
 - Assisted in instructing students on basic and advanced linguistic modeling techniques in NLP across multiple courses
 - Assisted in instructing general linguistics classes in pop linguistics and sociolinguistics to undergraduate students
@@ -66,7 +66,7 @@ Concentration: Computational Linguistics
 See [Teaching](./teaching) for a full course breakdown.
 
 #### Student Assistant Team Lead
-*University of North Texas Libraries, Denton, TX* — Sep 2022 – May 2023
+*University of North Texas Libraries, Denton, TX* - Sep 2022 - May 2023
 
 - Led a team responsible for organizing and maintaining library resources including physical and digital reference materials
 - Trained new employees in library processes
@@ -97,19 +97,19 @@ See [Research & Projects](./research) for full project descriptions and supporti
 
 ## Skills
 
-**Languages & Tools** — Python, PyTorch, R, SQL, Pandas, NumPy, scikit-learn, NLTK, Excel, Tableau, LaTeX, Markdown, Regex, Git
+**Languages & Tools** - Python, PyTorch, R, SQL, Pandas, NumPy, scikit-learn, NLTK, Excel, Tableau, LaTeX, Markdown, Regex, Git
 
-**Statistics & Machine Learning** — Statistical Modelling, Bayesian Statistics, Machine Learning, Deep Learning, Neural Networks, Bi-LSTM, Transformers, Data Mining, Data Visualization, Feature Engineering, Data Management, Time-Series Analysis, Clustering, Classification, Association-Rule Mining
+**Statistics & Machine Learning** - Statistical Modelling, Bayesian Statistics, Machine Learning, Deep Learning, Neural Networks, Bi-LSTM, Transformers, Data Mining, Data Visualization, Feature Engineering, Data Management, Time-Series Analysis, Clustering, Classification, Association-Rule Mining
 
-**NLP & Linguistics** — NLP, POS Tagging, Sequence Modeling, Information-Theoretic Analysis, Corpus Construction, Syntactic Annotation, IPA, Syntax
+**NLP & Linguistics** - NLP, POS Tagging, Sequence Modeling, Information-Theoretic Analysis, Corpus Construction, Syntactic Annotation, IPA, Syntax
 
 ---
 
 ## Languages
 
-- **English** — Native
-- **Mandarin** — Novice
-- **Spanish** — Novice
+- **English** - Native
+- **Mandarin** - Novice
+- **Spanish** - Novice
 
 I have also worked on research projects featuring Old Norse, Old English, Gothic, Old Icelandic, Old High German, Roviana, Burushaski, Icelandic, and Mandarin.
 
@@ -118,7 +118,7 @@ I have also worked on research projects featuring Old Norse, Old English, Gothic
 ## Recognitions, Honors, and Awards
 
 - TGS Robert B. Toulouse Scholarship (Fall 2025 & Spring 2026)
-- Distinguished Honors Award — University of North Texas
+- Distinguished Honors Award - University of North Texas
 - National Merit Scholar Award and Full Tuition Scholarship (2021–2025)
 - UNT National Merit Donor Fund Scholarship (2021–2025)
 - Featured Undergraduate Research on North Texas TV Broadcast (2024)
