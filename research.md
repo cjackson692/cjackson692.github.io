@@ -10,7 +10,7 @@ description: Research projects, publications, and coursework
 
 # Research & Projects
 
-This page enumerates research positions, publications, conference presentations, supervised theses, and selected coursework projects. Items are grouped by category and listed in reverse chronological order.
+If you have any questions or would like to read any of my work on these projects, please reach out!
 
 **Highlights:** one paper currently in review (*Germanic POS / error analysis*); three accepted international conference presentations under the name *Carter Smith* — GLAC 30 (2024), GLAC 31 (2025), and Protolang 9 (2025).
 
@@ -148,61 +148,51 @@ The following are self-directed academic projects completed during graduate and 
 
 ### Lexical Density in Old English Prose: Quantitative Analysis
 
-*LING 5075 — Dr. Xian Zhang*
+*Graduative Quantitative Research Coursework*
 
 Quantitative study of the relationship between text type and lexical density in Old English prose. Extracted documents from the York–Toronto–Helsinki Parsed Corpus of Old English (YCOE, Taylor 2003), computed lexical density as the ratio of content to all words across 50-word segments, and coded each document for dialect, translation status, and genre. Built sequential beta-regression models (in R, `betareg`) with lexical density as outcome and translation status, dialect, and text type as sequential predictors; verified assumptions with Shapiro–Wilk, Breusch–Pagan, and Durbin–Watson tests. Used partial point-biserial correlation to identify per-genre effects with confounds removed. The full model accounted for 37.1% of variance, with genre contributing 18.8% beyond dialect and translation status.
 
 ### Learner Corpora in Second Language Acquisition: A Literature Review
 
-*Second Language Acquisition — Dr. Xian Zhang* Co-authored with Punn Havananda
+*Graduate Second Language Acquisition Coursework* Co-authored with Punn Havananda
 
 Surveyed 25 years of learner corpus research (LCR), from foundational corpora (ICLE) to recent multilingual and process-oriented corpora (PROCEED, CLEC). Discussed methodological paradigms, findings on lexicon / syntax / discourse development, applied educational impacts including CEFR-aligned work, and directions for future LCR (non-English data, spoken resources, proficiency measurement).
 
-### German Credit Risk — Classification and Noisy-Data Sensitivity (Project 1)
 
-*Data Mining course (R, milestones 1 & 2)*
+### Congressional Voting Records — Association-Rule Mining 
 
-Preprocessing and analysis of the German credit dataset in R: standardized continuous variables, handled categorical factors, addressed class imbalance, and trained classifiers. Milestone 2 introduced 10% label noise and re-ran the pipeline to characterize how each classifier degraded under noisy supervision.
-
-### Congressional Voting Records — Association-Rule Mining (Project 2, Milestone 1)
-
-*Data Mining course (R)*
+*Graduate Data Mining Coursework (R)*
 
 Applied the apriori algorithm to UCI Congressional Voting Records. Carefully handled `?` as `NA`, factorized binary vote variables, applied descriptive column names from the metadata to keep rules interpretable, and exported rule bases to CSV.
 
-### Obesity Levels — K-Means Clustering (Project 2, Milestone 2)
 
-*Data Mining course (R)*
+### Time-Series Forecasting
 
-Preprocessed mixed-type obesity-levels data: converted ordinal string variables (CALC, NObeyesdad) to numeric, z-scaled all numeric features, ran K-Means at multiple K, and evaluated cluster solutions.
-
-### Time-Series Forecasting (Project 3)
-
-*Data Mining course (R, individual project)*
+*Graduate Data Mining Coursework (R)*
 
 Achieved stationarity through differencing and transformation, diagnosed with ACF / PACF and ADF tests, and fit ARIMA-family models for forecasting.
 
-### Group Deep-Learning Project — CSCE 5218
+### Nerual Machine Translation English-Tagalog
 
 *Graduate Deep Learning course*
 
 Group project implementing and evaluating a deep-learning system. **Repository:** [CSCE_5218_Group1_Project](https://github.com/cjackson692/CSCE_5218_Group1_Project).
 
-### NanoGPT Group Experiments
+### NanoGPT Parameter Tuning Analysis
 
-*Group project*
+*graduate Deel Learning Coursework*
 
 Experimentation with small-scale transformer language modeling building on the NanoGPT framework. **Repository:** [Group1_NanoGPT](https://github.com/cjackson692/Group1_NanoGPT).
 
 ### Hiatus and Glide Insertion in Burushaski
 
-*LING 5300 — Phonology — Dr. S. Munshi*
+*Graduate Phonology Coursework*
 
 Analysis of morpho-phonological hiatus resolution and glide insertion patterns in Burushaski.
 
 ### Semantic Ambiguity in Mandarin Chinese
 
-*LING 5530 — Semantics and Pragmatics — Dr. D. Roehrs*
+*Graduate Semantics Coursework*
 
 Overview paper analyzing types and resolution mechanisms of semantic ambiguity in Mandarin Chinese.
 
@@ -210,12 +200,7 @@ Overview paper analyzing types and resolution mechanisms of semantic ambiguity i
 
 *Graduate Syntax coursework*
 
-Analysis of three classes of movement in Icelandic — head-to-head (V-to-T and T-to-C), DP movement (unaccusatives, raising, passives), and WH movement — with motivating data and tree representations.
+Analysis of three classes of movement in Icelandic; head-to-head (V-to-T and T-to-C), DP movement (unaccusatives, raising, passives), and WH movement; with motivating data and tree representations.
 
 ---
 
-## Personal Projects
-
-### Comparing Constructed and Natural Languages using Information Theory
-
-Ongoing work, in collaboration with research team members and outside experts, applying information-theoretic metrics (entropy, redundancy, lexicon-level measures) to systematically compare constructed languages with natural-language baselines. Supports the 2023 DFW Metroplex Linguistic Conference talk and UNT COI 15th Anniversary poster.
