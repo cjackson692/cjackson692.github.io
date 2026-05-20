@@ -3,8 +3,7 @@ layout: default
 title: Carter Smith
 description: Computational Linguist & Quantitative Researcher
 ---
-
-[Home](./) · [Research & Projects](./research) · [Teaching](./teaching) · [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231) · [EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html)
+**[Home](./)** &nbsp;·&nbsp; [Research & Projects](./research) &nbsp;·&nbsp; [Teaching](./teaching) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231) &nbsp;·&nbsp; [EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html)
 
 ---
 
