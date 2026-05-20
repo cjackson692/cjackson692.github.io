@@ -7,7 +7,7 @@ description: Computational Linguist & Quantitative Researcher
 
 ## Computational Linguist & Quantitative Researcher
 
-Dallas–Fort Worth, TX (US) · [cjackson692@gmail.com](mailto:cjackson692@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231)
+Dallas–Fort Worth, TX (US) · [cjackson692@gmail.com](mailto:cjackson692@gmail.com)
 
 Hi, I am a Computational Linguist & Quantitative researcher with four years in paid academic roles applying probabilistic modeling, ML, and neural methods to language-change research and coding-focused LLM fine-tuning. I am currently seeking positions in NLP and quantitative research applying statistical modeling, machine learning, and AI to better understand our world.
 
@@ -32,7 +32,7 @@ Concentration: Computational Linguistics
 
 ## Employment History
 
-#### Graduate Research Assistant
+#### Research Assistant
 *University of North Texas, EVoAI Lab (Department of Linguistics), Denton, TX* - June 2023 - Present
 
 - Contribute to the NSF-funded *NeuraRec* project (PI: Dr. Frederik Hartmann), developing novel neural-network frameworks for the reconstruction of historical language data
