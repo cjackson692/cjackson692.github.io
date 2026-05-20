@@ -8,25 +8,24 @@ description: Research projects, publications, and coursework
 
 ---
 
-# Research & Projects
+## Research & Projects
 
 If you have any questions or would like to read any of my work on these projects, please reach out!
 
-**Highlights:** one paper currently in review (*Germanic POS / error analysis*); three accepted international conference presentations under the name *Carter Smith* — GLAC 30 (2024), GLAC 31 (2025), and Protolang 9 (2025).
+**Highlights** — one paper currently in review (*Germanic POS / error analysis*); three accepted international conference presentations under the name *Carter Smith* — GLAC 30 (2024), GLAC 31 (2025), and Protolang 9 (2025).
 
 ---
 
 ## Publications
 
-### Neural network error analysis for understanding language change: Analyzing the distribution of syntactic categories in Early Germanic *(in review)*
-
+#### Neural network error analysis for understanding language change: Analyzing the distribution of syntactic categories in Early Germanic *(in review)*
 **Smith, C.** (submitted). Single-author manuscript currently under peer review.
 
 This study tests the efficacy of neural-network error analysis as a method for investigating syntactic change. A context-sensitive Bi-LSTM is trained to label syntactic categories of words in five historical Germanic languages (Old English, Old Saxon, Old High German, Old Icelandic, Gothic). Per-category accuracies are systematically examined to identify unusual error patterns both language-internally and cross-linguistically, which are then used to generate hypotheses about ongoing syntactic changes. Hypotheses are compared with the existing literature on Germanic syntactic change to validate the approach. The networks achieve high overall accuracy, and the error analysis surfaces several patterns of change previously noted using other methods. The study argues for the value of error-centric neural analysis as a tool in historical linguistics.
 
-- **Repository:** [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
-- **Status:** In review for publication
-- **Keywords:** Syntactic Change · Neural Networks · Error Analysis · Part-of-Speech Tagging · Historical Germanic
+- **Repository** — [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
+- **Status** — In review for publication
+- **Keywords** — Syntactic Change · Neural Networks · Error Analysis · Part-of-Speech Tagging · Historical Germanic
 
 ---
 
@@ -34,55 +33,39 @@ This study tests the efficacy of neural-network error analysis as a method for i
 
 All presentations below are listed under the author name **Carter Smith**.
 
-### Using Neural Networks for Part-of-Speech Analysis to Investigate Syntactic Evolution and Change
-
+#### Using Neural Networks for Part-of-Speech Analysis to Investigate Syntactic Evolution and Change
 **Smith, C.** & Hartmann, F. (September 2025). **Protolang 9**, Vienna, Austria.
 
 Investigated using Bi-directional Long-Short Term Memory (Bi-LSTM) models to tag POS across five historical Germanic languages. Reported mono-language tagging accuracies (overall 80–91% range across OE, OS, OHG, OI, GO) and used ablation analysis to identify class-wise predictability patterns associated with observed syntactic differences. Skip-gram models on syntactic categories were used to compare cross-linguistic patterning of POS, then multilingual models were tested for cross-linguistic generalization. Findings include that lower predictive accuracy of ADJ in Old English (vs. OHG/OI/OS) tracks the more restricted attested adjective–noun ordering in OE, and that the OHG determiner shows a content-word-like learnability curve distinct from the function-word pattern observed in other languages.
 
-- **Status:** Accepted; presented September 2025
-- **Repository:** [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
+- **Status** — Accepted; presented September 2025
+- **Repository** — [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
 
----
-
-### Expanding Neural Part-of-Speech Analysis of Historical Germanic Languages
-
+#### Expanding Neural Part-of-Speech Analysis of Historical Germanic Languages
 **Smith, C.** (May 2025). **Germanic Linguistics Annual Conference 31 (GLAC 31)**, Denton, TX.
 
 Sole-authored expansion of the earlier GLAC 30 study, broadening the dataset from a smaller Germanic subset to Old Saxon, Old English, Old High German, Old Icelandic, and Gothic. Reported accuracies in the 87–90% range for OS / OE / OI / GO, and ~80% for OHG. Secondary ablation analyses revealed predictability trends across Determiners, Adjectives, Adverbs, Conjunctions, and Complementizers, and motivated the broader error-analysis framework subsequently developed in the *in-review* manuscript.
 
-- **Status:** Accepted; presented May 2025
+- **Status** — Accepted; presented May 2025
 
----
-
-### Neural Part-of-Speech Analysis in Historical Germanic
-
+#### Neural Part-of-Speech Analysis in Historical Germanic
 **Smith, C.** & Hartmann, F. (April 2024). **Germanic Linguistics Annual Conference 30 (GLAC 30)**, Bloomington, IN.
 
 Initial study testing Bi-LSTM neural network architectures for automatic POS annotation on a smaller Germanic subset, establishing baseline feasibility of context-sensitive neural POS tagging for low-resource historical languages and motivating subsequent multi-language and ablation work.
 
-- **Status:** Accepted; presented April 2024
+- **Status** — Accepted; presented April 2024
 
----
-
-### Using Information-Theoretic Metrics to Compare Natural and Constructed Language
-
+#### Using Information-Theoretic Metrics to Compare Natural and Constructed Language
 **Smith, C.** & Beeler, A. (November 2023). **DFW Metroplex Linguistic Conference**, Dallas, TX.
 
 Co-authored talk comparing natural and constructed languages through information-theoretic metrics. Built computational language models and conducted lexicon-level analysis to operationalize cross-system comparison.
 
----
-
-### Computational Information Theory Applied to Constructed Languages
-
+#### Computational Information Theory Applied to Constructed Languages
 Beeler, A. & **Smith, C.** (November 2023). Poster, **UNT College of Information 15th Anniversary Celebration**, Denton, TX.
 
 Poster presentation of the same research thread as above.
 
----
-
-### Accessing Roviana Language Data Through Computation
-
+#### Accessing Roviana Language Data Through Computation
 **Smith, C.** (April 2022). **UNT Scholars Day 2022**, Denton, TX.
 
 Reported on the digitization of Roviana language data into a machine-readable format and the development of a decision-tree tool for identifying grammatical forms within the Roviana language.
@@ -91,43 +74,30 @@ Reported on the digitization of Roviana language data into a machine-readable fo
 
 ## Research Positions
 
-### Graduate Research Assistant — NSF *NeuraRec* Project
-
-**University of North Texas, Department of Linguistics — EVoAI Lab** **Sept 2025 – Present** PI: Dr. Frederik Hartmann
+#### Graduate Research Assistant — NSF *NeuraRec* Project
+*University of North Texas, Department of Linguistics — EVoAI Lab* — Sept 2025 – Present · PI: Dr. Frederik Hartmann
 
 Working as part of the [UNT EVoAI Lab](https://linguistics.unt.edu/evo-ai/index.html) on an NSF-funded project focused on developing neural models for proto-language reconstruction.
 
----
-
-### Research Team Member — UNT Computational Linguistics Lab
-
-**University of North Texas, Department of Linguistics** **Sept 2023 – Present** Supervisor: Dr. Frederik Hartmann
+#### Research Team Member — UNT Computational Linguistics Lab
+*University of North Texas, Department of Linguistics* — Sept 2023 – Present · Supervisor: Dr. Frederik Hartmann
 
 Working on the comparison of natural and constructed languages through information-theoretic metrics. Created computational language models and conducted in-depth lexicon analysis. Collaborated with a research team across multiple levels of academia and with outside experts.
 
----
-
-### Research Assistant — Department of Linguistics
-
-**University of North Texas** **May 2023 – July 2025** Supervisor: Dr. Frederik Hartmann
+#### Research Assistant — Department of Linguistics
+*University of North Texas* — May 2023 – July 2025 · Supervisor: Dr. Frederik Hartmann
 
 Assisted with data processing and computational modeling for studies of diachronic semantic change, language evolution, and geographical–phonological complexity.
 
----
-
-### Honors Undergraduate Thesis — *Neural Part-of-Speech Analysis of Historical Germanic Languages*
-
-**UNT Honors College / Department of Linguistics** **Jan 2025 – May 2025** Faculty Advisor: Dr. Frederik Hartmann
+#### Honors Undergraduate Thesis — *Neural Part-of-Speech Analysis of Historical Germanic Languages*
+*UNT Honors College / Department of Linguistics* — Jan 2025 – May 2025 · Faculty Advisor: Dr. Frederik Hartmann
 
 Completed and defended an honors thesis project entitled *Neural Part-of-Speech Analysis of Historical Germanic Languages*. Received highest marks and earned the Distinguished Honors Award. This thesis directly seeded the in-review manuscript and the Protolang 9 presentation.
 
-- **Repository:** [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
+- **Repository** — [github.com/cjackson692/GermanicPOS](https://github.com/cjackson692/GermanicPOS)
 
----
-
-### Honors Independent Study — Roviana Language Digitization
-
-**UNT Honors College** **Jan 2023 – May 2023** Supervisor: Dr. Peter Schuelke
+#### Honors Independent Study — Roviana Language Digitization
+*UNT Honors College* — Jan 2023 – May 2023 · Supervisor: Dr. Peter Schuelke
 
 Worked under the supervision of Dr. Peter Schuelke and the advisement of the UNT Honors College on a project centered on the digitization of Roviana language data into machine-readable format, and the development of a decision-tree tool for identifying particular grammatical forms within Roviana. Earned course credit through research.
 
@@ -146,61 +116,47 @@ Worked under the supervision of Dr. Peter Schuelke and the advisement of the UNT
 
 The following are self-directed academic projects completed during graduate and upper-level coursework. They are listed to document methodological breadth (data mining, statistical modeling, NLP, syntax, phonology, semantics, SLA).
 
-### Lexical Density in Old English Prose: Quantitative Analysis
-
-*Graduative Quantitative Research Coursework*
+#### Lexical Density in Old English Prose: Quantitative Analysis
+*Graduate Quantitative Research Coursework*
 
 Quantitative study of the relationship between text type and lexical density in Old English prose. Extracted documents from the York–Toronto–Helsinki Parsed Corpus of Old English (YCOE, Taylor 2003), computed lexical density as the ratio of content to all words across 50-word segments, and coded each document for dialect, translation status, and genre. Built sequential beta-regression models (in R, `betareg`) with lexical density as outcome and translation status, dialect, and text type as sequential predictors; verified assumptions with Shapiro–Wilk, Breusch–Pagan, and Durbin–Watson tests. Used partial point-biserial correlation to identify per-genre effects with confounds removed. The full model accounted for 37.1% of variance, with genre contributing 18.8% beyond dialect and translation status.
 
-### Learner Corpora in Second Language Acquisition: A Literature Review
-
-*Graduate Second Language Acquisition Coursework* Co-authored with Punn Havananda
+#### Learner Corpora in Second Language Acquisition: A Literature Review
+*Graduate Second Language Acquisition Coursework* · Co-authored with Punn Havananda
 
 Surveyed 25 years of learner corpus research (LCR), from foundational corpora (ICLE) to recent multilingual and process-oriented corpora (PROCEED, CLEC). Discussed methodological paradigms, findings on lexicon / syntax / discourse development, applied educational impacts including CEFR-aligned work, and directions for future LCR (non-English data, spoken resources, proficiency measurement).
 
-
-### Congressional Voting Records — Association-Rule Mining 
-
+#### Congressional Voting Records — Association-Rule Mining
 *Graduate Data Mining Coursework (R)*
 
 Applied the apriori algorithm to UCI Congressional Voting Records. Carefully handled `?` as `NA`, factorized binary vote variables, applied descriptive column names from the metadata to keep rules interpretable, and exported rule bases to CSV.
 
-
-### Time-Series Forecasting
-
+#### Time-Series Forecasting
 *Graduate Data Mining Coursework (R)*
 
 Achieved stationarity through differencing and transformation, diagnosed with ACF / PACF and ADF tests, and fit ARIMA-family models for forecasting.
 
-### Nerual Machine Translation English-Tagalog
-
-*Graduate Deep Learning course*
+#### Neural Machine Translation English–Tagalog
+*Graduate Deep Learning Coursework*
 
 Group project implementing and evaluating a deep-learning system. **Repository:** [CSCE_5218_Group1_Project](https://github.com/cjackson692/CSCE_5218_Group1_Project).
 
-### NanoGPT Parameter Tuning Analysis
-
-*graduate Deel Learning Coursework*
+#### NanoGPT Parameter Tuning Analysis
+*Graduate Deep Learning Coursework*
 
 Experimentation with small-scale transformer language modeling building on the NanoGPT framework. **Repository:** [Group1_NanoGPT](https://github.com/cjackson692/Group1_NanoGPT).
 
-### Hiatus and Glide Insertion in Burushaski
-
+#### Hiatus and Glide Insertion in Burushaski
 *Graduate Phonology Coursework*
 
 Analysis of morpho-phonological hiatus resolution and glide insertion patterns in Burushaski.
 
-### Semantic Ambiguity in Mandarin Chinese
-
+#### Semantic Ambiguity in Mandarin Chinese
 *Graduate Semantics Coursework*
 
 Overview paper analyzing types and resolution mechanisms of semantic ambiguity in Mandarin Chinese.
 
-### Movement in Icelandic Syntax
+#### Movement in Icelandic Syntax
+*Graduate Syntax Coursework*
 
-*Graduate Syntax coursework*
-
-Analysis of three classes of movement in Icelandic; head-to-head (V-to-T and T-to-C), DP movement (unaccusatives, raising, passives), and WH movement; with motivating data and tree representations.
-
----
-
+Analysis of three classes of movement in Icelandic: head-to-head (V-to-T and T-to-C), DP movement (unaccusatives, raising, passives), and WH movement; with motivating data and tree representations.

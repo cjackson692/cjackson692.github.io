@@ -1,0 +1,130 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ---------- Typography ---------- */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #2a2a2a;
+  line-height: 1.55;
+  font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1a1a1a;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 1.9em; margin-top: 0; }
+h2 {
+  font-size: 1.35em;
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #e6e6e6;
+}
+h3 { font-size: 1.1em; margin-top: 1.6em; margin-bottom: 0.2em; }
+h4 {
+  font-size: 1em;
+  margin-top: 1.4em;
+  margin-bottom: 0.15em;
+  font-weight: 600;
+}
+
+/* Tighten the paragraph that immediately follows a heading (used for
+   institution / date subtitles). */
+h3 + p, h4 + p {
+  margin-top: 0;
+  color: #555;
+  font-size: 0.94em;
+}
+
+p, ul, ol { margin-top: 0.5em; margin-bottom: 0.9em; }
+ul { padding-left: 1.2em; }
+li { margin-bottom: 0.25em; }
+
+strong { color: #1a1a1a; }
+
+/* ---------- Links ---------- */
+
+a {
+  color: #1f6feb;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(31, 111, 235, 0.25);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+a:hover {
+  color: #0a4fc4;
+  border-bottom-color: #0a4fc4;
+}
+
+/* The top nav row (the inline list of page links at the top of each page) */
+.main-content > p:first-of-type {
+  font-size: 0.92em;
+  color: #555;
+  margin-bottom: 0.5em;
+}
+.main-content > p:first-of-type a {
+  border-bottom: none;
+}
+.main-content > p:first-of-type a:hover {
+  border-bottom: 1px solid currentColor;
+}
+
+/* ---------- Horizontal rules ---------- */
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #e6e6e6;
+  margin: 1.8em 0;
+}
+
+/* ---------- Sidebar (Minimal theme) ---------- */
+
+.sidebar, .wrapper > header {
+  /* Slight refinement of the default sidebar */
+}
+
+header h1 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+header p {
+  color: #666;
+}
+
+/* ---------- Inline code & code blocks ---------- */
+
+code {
+  font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  background: #f4f4f4;
+  border: 1px solid #e6e6e6;
+  border-radius: 3px;
+  padding: 0.1em 0.35em;
+  font-size: 0.88em;
+  color: #333;
+}
+
+pre code {
+  border: none;
+  background: transparent;
+  padding: 0;
+}
+
+/* ---------- Tables ---------- */
+
+table {
+  border-collapse: collapse;
+  margin: 0.6em 0 1em 0;
+}
+th, td {
+  padding: 0.35em 0.8em 0.35em 0;
+  border: none;
+  text-align: left;
+}
+th { font-weight: 600; }
