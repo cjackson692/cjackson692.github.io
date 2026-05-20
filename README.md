@@ -12,6 +12,3 @@ Source for [cjackson692.github.io](https://cjackson692.github.io/) — personal 
 | `_config.yml`     | Jekyll site configuration (Midnight remote theme)              |
 
 
-## Theme
-
-This site uses the [Midnight](https://github.com/pages-themes/midnight) remote theme.
