@@ -9,7 +9,7 @@ description: Computational Linguist & Quantitative Researcher
 
 Dallas–Fort Worth, TX (US) · [cjackson692@gmail.com](mailto:cjackson692@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carter-smith-5b4887231)
 
-Computational Linguist & Quantitative researcher with four years in paid academic roles applying probabilistic modeling, ML, and neural methods to language-change research and coding-focused LLM fine-tuning. Seeking positions in NLP and Quantitative research applying statistical modeling, machine learning, and AI to better understand our world.
+Hi, I am a Computational Linguist & Quantitative researcher with four years in paid academic roles applying probabilistic modeling, ML, and neural methods to language-change research and coding-focused LLM fine-tuning. I am currently eeking positions in NLP and quantitative research applying statistical modeling, machine learning, and AI to better understand our world.
 
 One paper currently in review (*neural network error analysis in Early Germanic*); three accepted international conference presentations (GLAC 2024, GLAC 2025, Protolang 9).
 
